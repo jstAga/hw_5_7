@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">RPG game</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="add_hero">Add hero</string>
+    <string name="play">play</string>
+    <string name="name">Name</string>
+    <string name="hero_class">Class</string>
+    <string name="super_ability">Super ability</string>
+    <string name="remove">remove</string>
+</resources>

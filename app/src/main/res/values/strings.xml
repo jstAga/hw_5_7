@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">hw_5_7</string>
+    <string name="first_num">first num</string>
+    <string name="second_num">second num</string>
+    <string name="result">result</string>
+    <string name="calculate">calculate</string>
+</resources>

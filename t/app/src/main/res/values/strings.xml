@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">t</string>
+    <string name="plus">+</string>
+    <string name="minus">-</string>
+    <string name="counter">0</string>
+    <string name="huy">huy</string>
+</resources>
